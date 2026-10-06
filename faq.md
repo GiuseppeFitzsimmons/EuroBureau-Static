@@ -1,7 +1,5 @@
 # Frequently Asked Questions
 
-_Placeholder content — served dynamically and updated without a redeployment._
-
 ## What is EuroBureau?
 
 Really cool
