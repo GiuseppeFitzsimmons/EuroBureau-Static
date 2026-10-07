@@ -19,7 +19,7 @@ You undertake to do no harm (ideally in all cases but herein with respect to you
 - Don’t use EuroBureau to do harm or harass others — don't use our services to send unwanted or unkind messages. Don’t try to harvest, collect, or gather user data.   
 - Don’t infringe on others’ intellectual property rights. Don’t plagiarise. Don’t infringe on our intellectual property rights.   
 - Don’t employ EuroBureau to create or disseminate evil, illegal, inciteful, or unkind content. If you want to do that, for some reason, Lord knows there are enough other platforms that are fine with it.  
-- Tattle. If you suspect someone is violating any of the above perfectly reasonable requirements, please let us know at contact@eurobureau.eu.  
+- Tattle. If you suspect someone is violating any of the above perfectly reasonable requirements, please let us know at admin@eurobureau.eu.  
    
 You acknowledge that you’re ultimately responsible for the safekeeping of your content. EuroBureau saves regular versions and sends nightly backups of any changed files (this is optional but on by default) and your files are stored redundantly in geographically disparate servers. We’ll do everything reasonably practicable to avoid losing or corrupting your work, but at the end of the day we can’t take responsibility if something disastrous should happen.  
    
