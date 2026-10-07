@@ -21,3 +21,6 @@ Yes, and it’s very simple – EuroBureau does not allow, accomodate, accept, o
 
 ## How can I support EuroBureau?
 While EuroBureau is provided entirely for free, we do offer extra storage space as gratitude for donations. Please visit [ko-fi.com/eurobureau](https://ko-fi.com/eurobureau) for more information.
+
+## How can EuroBureau support me?
+On your documents page you can select 'Ask a Human' at any time to pose a technical question or propose a feature or even ask for self-publishing, writing, or typography advice.
