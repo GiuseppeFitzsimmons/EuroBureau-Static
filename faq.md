@@ -24,4 +24,4 @@ While EuroBureau is provided entirely for free, we do offer extra storage space 
 
 ## How can EuroBureau support me?
 On your documents page you can select 'Ask a Human' at any time to pose a technical question or propose a feature or even ask for self-publishing, writing, or typography advice.
-There’s also a [guide]('https://eurobureau.eu/Self-Publishing+with+EuroBureau.pdf') (very much a WIP) that endeavours to illustrate some of the features of most interest to self-publishers.
+There’s also a [guide](https://eurobureau.eu/Self-Publishing+with+EuroBureau.pdf) (very much a WIP) that endeavours to illustrate some of the features of most interest to self-publishers.
