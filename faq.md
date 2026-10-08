@@ -5,7 +5,7 @@ EuroBureau is an online collaborative office suite (in fact, just word processin
 
 ## Do I need to be in Europe to use EuroBureau?
 
-Absolutely not. EuroBureau is so named because it's a fork of EuroOffice, the European initiative to offer a safe and distributed alternative to US monoliths. The servers are hosted in Europe, the files are stored in Europe (several times over, to ensure the safety of your work), but writers who value privacy and security in a fully-featured office suite are all over the world.
+Absolutely not. EuroBureau is so named because it’s a fork of EuroOffice, the European initiative to offer a safe and distributed alternative to US monoliths. The servers are hosted in Europe, the files are stored in Europe (several times over, to ensure the safety of your work), but writers who value privacy and security in a fully-featured office suite are all over the world.
 
 ## Is EuroBureau only for self-published authors?
 
@@ -24,3 +24,4 @@ While EuroBureau is provided entirely for free, we do offer extra storage space 
 
 ## How can EuroBureau support me?
 On your documents page you can select 'Ask a Human' at any time to pose a technical question or propose a feature or even ask for self-publishing, writing, or typography advice.
+There’s also a [guide]('/Self-Publishing with EuroBureau.pdf') (very much a WIP) that endeavours to illustrate some of the features of most interest to self-publishers.
