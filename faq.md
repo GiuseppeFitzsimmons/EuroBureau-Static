@@ -20,8 +20,8 @@ EuroOffice is an open-source online collaborative document management project en
 Yes, and it’s very simple – EuroBureau does not allow, accomodate, accept, or condone generative AI, and commits to never allowing your data to be used by anyone but you.
 
 ## How can I support EuroBureau?
-While EuroBureau is provided entirely for free, we do offer extra storage space as gratitude for donations. Please visit [ko-fi.com/eurobureau](https://ko-fi.com/eurobureau) for more information.
+While EuroBureau is provided entirely for free, we do offer extra storage space as gratitude for donations. Please visit [[ko-fi.com/eurobureau](https://payhip.com/eurobureau)](https://payhip.com/eurobureau) for more information.
 
 ## How can EuroBureau support me?
 On your documents page you can select ‘Ask a Human’ at any time to pose a technical question or propose a feature or even ask for self-publishing, writing, or typography advice.
-There’s also a [guide](https://indefensiblepublishing.com/wp-content/uploads/2026/10/Self-Publishing-with-EuroBureau.pdf) (very much a WIP) that endeavours to illustrate some of the features of most interest to self-publishers.
+There’s also a [guide](https://eurobureau.eu/publishing-guide) (very much a WIP) that endeavours to illustrate some of the features of most interest to self-publishers.
